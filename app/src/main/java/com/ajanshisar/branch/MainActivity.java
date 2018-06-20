@@ -14,8 +14,10 @@ public class MainActivity extends AppCompatActivity {
     private int a = 1 + 1;
 
     public void newMethod(){
-        int i = 2 * 2;
+        int i = 3 * 3;
 
         String test = "test";
+
+        Boolean True = false;
     }
 }
